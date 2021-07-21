@@ -56,10 +56,10 @@ const questions = [
         }
     }, 
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Choose a license for your project (Required)',
-        choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
+        choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'IBM', 'None'],
         validate: licenseInput => {
             if (licenseInput) {
                 return true;
@@ -138,7 +138,7 @@ function init() {
     inquirer.prompt(questions)
     .then (function (userInput){
         console.log(userInput)
-        writeToFile("README.md", generateMarkdown(UserInput))
+        writeToFile("README.md", generateMarkdown(userInput))
     });
 };
 
