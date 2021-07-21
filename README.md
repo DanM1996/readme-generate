@@ -2,4 +2,4 @@
 
 [How to create a Professional README](./readme-guide.md)
 
-https://drive.google.com/file/d/1Ps8dHjVK7jRqHyJaZ4zq92bZ1VQUUow-/view
+[Video tutorial on how to use this application on your PC](https://drive.google.com/file/d/1Ps8dHjVK7jRqHyJaZ4zq92bZ1VQUUow-/view)
