@@ -1,6 +1,6 @@
-# Test
+# Test Project
   
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   - [Description](#description)
@@ -12,22 +12,22 @@
   - [Questions](#questions)
   
   ## Description:
-  Test
+  Here is where you would type a description of your project
 
   ## Installation:
-  Test
+  Download the source code from github and run npm install
 
   ## Usage:
-  Test
+  N/A
 
   ## License:
-  None
+  MIT
 
   ## Contribution:
-  Test
+  N/A
 
   ## Tests:
-  Test
+  No testing instruction
 
   ## Questions:
   For any questions, feel free to checkout my Github and contact me via email:
